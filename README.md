@@ -1,7 +1,7 @@
 # 🔒 Secure File Sharing System  
 A privacy-focused file-sharing platform with expiration, access control, encryption, and blockchain-based integrity verification.
 
--------
+----
 
 ## 🚀 Features  
 - **AES Encryption** before upload  
